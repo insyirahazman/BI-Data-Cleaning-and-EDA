@@ -1,5 +1,5 @@
 # BI Data Cleaning and EDA
-[Source (Kaggle)](https://www.kaggle.com/code/insyirahazman/bi-data-cleaning-and-eda)
+[Kaggle](https://www.kaggle.com/code/insyirahazman/bi-data-cleaning-and-eda)
 
 ## Overview
 This project focuses on business intelligence data cleaning and exploratory data analysis (EDA). The analysis is implemented in a Jupyter Notebook to help understand data patterns, clean messy data, and prepare datasets for further analysis or machine learning applications.
